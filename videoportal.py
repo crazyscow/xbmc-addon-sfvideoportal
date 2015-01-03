@@ -5,7 +5,7 @@ import urllib, urllib2, HTMLParser
 import xbmcgui, xbmcplugin, xbmcaddon
 from mindmade import *
 import simplejson
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 __author__     = "Andreas Wetzel"
 __copyright__  = "Copyright 2011, 2012, mindmade.org"
